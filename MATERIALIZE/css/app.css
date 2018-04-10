@@ -1,0 +1,38 @@
+body{
+  background-image:url(../img/fondo.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+.logo {
+  height: 100px;
+  width: 120px;
+  margin-top: 10px;
+  padding-left: 10px;
+  float: left;
+  border-color: #fff;
+}
+.contenido{
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: justify;
+}
+
+
+img{
+  width: 100%;
+}
+
+.redes_sociales{
+margin-top: 100px;
+}
+.redes{
+margin-top: 15px;
+}
+
+p{
+  text-align: justify;
+}
